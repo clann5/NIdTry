@@ -18,14 +18,13 @@ public class Write {
 
 		String format_time1 = format1.format(System.currentTimeMillis());
 
-		System.out.println(format_time1);
+		System.out.println(format1 + "\t\t"+ format_time1);
 
 		String id = "ID";
 		String pw = "Password";
-		pw = pw.replace(",", "\n");
 		
 		HSSFWorkbook workbook = new HSSFWorkbook(); // 새 엑셀 생성
-		HSSFSheet sheet = workbook.createSheet("시트명"); // 새 시트(Sheet) 생성
+		HSSFSheet sheet = workbook.createSheet("SheetBasic"); // 새 시트(Sheet) 생성
 		HSSFRow row = sheet.createRow(0); // 엑셀의 행은 0번부터 시작
 		HSSFCell cell = row.createCell(0); // 행의 셀은 0번부터 시작
 		cell.setCellValue(id); // 생성한 셀에 데이터 삽입

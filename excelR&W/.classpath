@@ -8,5 +8,19 @@
 	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/poi-bin-4.1.0-20190412/poi-4.1.0/poi-ooxml-4.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/poi-bin-4.1.0-20190412/poi-4.1.0/poi-ooxml-schemas-4.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/poi-bin-4.1.0-20190412/poi-4.1.0/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/commons-compress-1.18-bin/commons-compress-1.18/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/commons-compress-1.18-bin/commons-compress-1.18/commons-compress-1.18-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/commons-compress-1.18-bin/commons-compress-1.18/commons-compress-1.18-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/commons-compress-1.18-bin/commons-compress-1.18/commons-compress-1.18-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/commons-compress-1.18-bin/commons-compress-1.18/commons-compress-1.18-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/xmlbeans-bin-3.1.0/xmlbeans-3.1.0/lib/resolver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/xmlbeans-bin-3.1.0/xmlbeans-3.1.0/lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/xmlbeans-bin-3.1.0/xmlbeans-3.1.0/lib/xmlbeans-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/xmlbeans-bin-3.1.0/xmlbeans-3.1.0/lib/xmlbeans-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/commons-collections4-4.3-bin/commons-collections4-4.3/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/commons-collections4-4.3-bin/commons-collections4-4.3/commons-collections4-4.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/commons-collections4-4.3-bin/commons-collections4-4.3/commons-collections4-4.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/commons-collections4-4.3-bin/commons-collections4-4.3/commons-collections4-4.3-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/lib_new/commons-collections4-4.3-bin/commons-collections4-4.3/commons-collections4-4.3-test-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
